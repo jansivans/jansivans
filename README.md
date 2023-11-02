@@ -10,5 +10,5 @@
 
 ### My blogs
 
-- [dev.to](https://dev.to/jansivans)
-- [Medium](https://medium.com/@jansivans)
+- Getting started with Drayman - [Medium](https://medium.com/itnext/getting-started-with-drayman-ce355ecfe22a), [dev.to](https://dev.to/jansivans/getting-started-with-drayman-1ng7)
+- Building a real-time Todo app with Drayman, MongoDB and Tailwind CSS - [Medium](https://medium.com/itnext/building-a-real-time-todo-app-with-drayman-mongodb-and-tailwind-css-25d57ed5cfda), [dev.to](https://dev.to/jansivans/building-a-real-time-todo-app-with-drayman-mongodb-and-tailwind-css-2ec)
